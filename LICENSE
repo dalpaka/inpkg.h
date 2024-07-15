@@ -1,16 +1,19 @@
 MIT License
 
-Copyright (c) 2024 dalpaka
+Copyright (c) 2024 Dimitri Jordan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+to use, copy, modify, merge, publish, distribute, sublicense the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+1. The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+2.This license does not grant you any rights to use the trademarks, service marks, or logos of the project.
+
+3.This license does not grant any rights with respect to any patent claims that the licensors may have, including for making, using, selling, offering for sale, importing, or otherwise transferring the software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
