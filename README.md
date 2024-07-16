@@ -30,12 +30,12 @@ Must have Mingw installed with gcc for Windows config
 ## Featuring
 
 ### Basic:
-Currently clrflow.h supports the most barebones command line/terminal designing features as seen in [clrflow](github.com/rver38/clrflow) for example:
+Currently clrflow.h supports the most barebones command line/terminal designing features as seen in [clrflow](https://github.com/rver38/clrflow) for example:
 - Unified text coloring for cross platform terminals
 - Text-based cli building
 
 ### Future: 
-In the coming months you will see a load of [clrflow](github.com/rver38/clrflow).h features get released as [clrflow](github.com/rver38/clrflow) also gets released like for example:
+In the coming months you will see a load of [clrflow](https://github.com/rver38/clrflow).h features get released as [clrflow](https://github.com/rver38/clrflow) also gets released like for example:
 
 - More CLI features like loading bars
 - ASCII image building and a p5.js transpiler
