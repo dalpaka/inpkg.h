@@ -21,6 +21,6 @@ git clone https://github.com/dalpaka/clrflow
 
 And add the public/include directory to your include path.
 
-##Important notice
+## Important notice
 
 Must have Mingw installed with gcc for Windows config
