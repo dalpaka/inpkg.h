@@ -11,7 +11,8 @@
 ### Installation
 Download the latest dource code and place your code in the '/custom' directory.
 or 
-Run ```sh
+Run 
+```
 apt install clrflow
 ```
 For Debian based systems
