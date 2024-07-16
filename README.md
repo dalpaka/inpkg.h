@@ -19,7 +19,7 @@ Simply run
 git clone https://github.com/dalpaka/clrflow
 ```
 
-And add the public/include directory to your include path.
+And add the public/include directory to your include path. (I already have Windows and Linux vscode c/cpp configs in the '.vscode' folder)
 
 ## Important notice
 
