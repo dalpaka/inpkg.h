@@ -1,4 +1,4 @@
-# Clrflow.h based on clrflow /kŭl′ərflō/
+# Clrflow.h /kŭl′ərflō dō āch/
 
 ### Information
 👋 The C/C++ version for clrflow (https://github.com/rver38/clrflow)
