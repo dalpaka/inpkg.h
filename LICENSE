@@ -4,12 +4,21 @@ Copyright © 2024, Dimitri Jordan
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
+
 1. Redistributions of source code must retain the above copyright notice, this
    list of conditions and the following disclaimer.
+
 2. Redistributions in binary form must reproduce the above copyright notice,
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
+
 3. This license does not grant you any rights to use the trademarks, service marks, or logos of the project.
+
 4. This license does not grant any rights with respect to any patent claims that the licensors may have, including for making, using, selling, offering for sale, importing, or otherwise transferring the software.
+
 This software is provided "as-is," without any express or implied warranty. 
-In no event shall the authors be held liable for any damages arising from the use of the software.
+The authors make no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of this software.
+There are inherent dangers in the use of any software, and you are solely responsible for determining whether this software is compatible with your equipment and other software installed on your equipment. 
+You are also solely responsible for the protection of your equipment and backup of your data, and the authors will not be liable for any damages you may suffer in connection with using, modifying, or distributing this software.
+
+By using, modifying, or distributing this software, you agree to the terms of this license.
