@@ -9,7 +9,7 @@
 
 
 ### Installation
-Download the latest source code and place your code in '/custom.c'.
+Download the latest source code and place your code in '/public/src/main.c'.
 
 #### or 
 
