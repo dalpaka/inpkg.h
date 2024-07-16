@@ -23,7 +23,7 @@ And add the public/include directory to your include path. (I already have Windo
 
 ## Important notice
 
-Must have Mingw installed with gcc for Windows config
+Must have MinGW installed with gcc for Windows config
 
 (Linux is not that important because gcc should usually be preinstalled for the vast majority of distros)
 
