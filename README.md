@@ -30,7 +30,7 @@ Must have MinGW installed with gcc for Windows config
 ## Featuring
 
 ### Basic:
-Currently clrflow.h supports the most barebones command line/terminal designing features as seen in [clrflow](https://github.com/rver38/clrflow) for example:
+Currently [clrflow](https://github.com/rver38/clrflow).h supports the most barebones command line/terminal designing features as seen in [clrflow](https://github.com/rver38/clrflow) for example:
 - Unified text coloring for cross platform terminals
 - Text-based cli building
 
