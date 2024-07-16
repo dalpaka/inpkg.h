@@ -16,7 +16,7 @@ Download the latest source code and place your code in '/public/src/main.c'.
 Simply run 
 
 ```
-git clone https://github.com/dalpaka/clrflow
+git clone https://github.com/dalpaka/clrflow.h
 ```
 
 And add the public/include directory to your include path. (I already have Windows and Linux vscode c/cpp configs in the '.vscode' folder)
