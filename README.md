@@ -24,3 +24,4 @@ And add the public/include directory to your include path.
 ## Important notice
 
 Must have Mingw installed with gcc for Windows config
+(Linux is not that important because gcc should usually be preinstalled for the majority of distros)
