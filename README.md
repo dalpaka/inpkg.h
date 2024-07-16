@@ -9,12 +9,14 @@
 
 
 ### Installation
-Download the latest dource code and place your code in the '/custom' directory.
+Download the latest source code and place your code in the '/custom' directory.
 
 #### or 
 
-Run 
+Simply run 
+
 ```
-apt install clrflow
+git clone https://github.com/dalpaka/clrflow
 ```
-For Debian based systems
+
+And add the public/include directory to your include path.
