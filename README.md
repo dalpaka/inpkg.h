@@ -5,7 +5,7 @@
 
 🤝 Also check out: [rver](https://github.com/rver38)
 
-🙏 Please read the LICENSE
+🙏 Please read the [LICENSE](https://github.com/dalpaka/clrflow.h/blob/main/LICENSE.txt)
 
 
 ## Installation
