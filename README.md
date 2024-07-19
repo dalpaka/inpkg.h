@@ -19,7 +19,9 @@ Simply run
 git clone https://github.com/dalpaka/clrflow.h
 ```
 
-And add the public/include directory to your include path. (I already have Windows and Linux vscode c/cpp configs in the '.vscode' folder)
+And add the src/include/clrflow directory to your include path which is ```C:\MinGW\include``` for Windows and ```/usr/include``` for Linux. (I already have Windows and Linux VSCode C/C++ configs in the '.vscode' folder if you're using VSCode)
+
+Clrflow is a header-only library which means you wont need dll's or .lib files.
 
 ## Important notice
 
