@@ -1,10 +1,5 @@
 # Clrflow.h /kŭl′ərflō dōt āch/
 
-```mermaid
-CLRFLOW.H
-```
-
-
 ## Information
 👋 The C/C++ version for [clrflow](https://github.com/rver38/clrflow)
 
