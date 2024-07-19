@@ -17,7 +17,7 @@
 
 🙏 Please read the [LICENSE](https://github.com/dalpaka/clrflow.h/blob/main/LICENSE.txt)
 
-🤔 [Clrflow](https://github.com/rver38/clrflow).h is a header-only library which means you wont need dll's or .lib files.
+🤔 [Clrflow](https://github.com/rver38/clrflow).h is a header-only library coming in at about _~100kb_ or less which means you wont need dll's or .lib files.
 
 ❓ Go to the [documentation](https://dalpaka.github.io/clrflow.h)
 
