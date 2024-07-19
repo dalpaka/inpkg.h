@@ -23,8 +23,18 @@ typedef struct __attribute__((packed)){
 palette colors;
 
 
-void red(char content[]) {
-    printf(RED     "%d"     COLOR_RESET "\n", content);
+void red(char red_content[]) {
+    printf(RED     "%d"     COLOR_RESET "\n", red_content);
 }
+
+void green(char green_content[]) {
+    printf(GREEN   "%d"     COLOR_RESET "\n", green_content);
+}
+
+void blue(char blue_content[]) {
+    printf(GREEN   "%d"     COLOR_RESET "\n", blue_content);
+}
+
+
 
 #endif

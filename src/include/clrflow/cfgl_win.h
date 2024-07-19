@@ -12,7 +12,7 @@ LRESULT CALLBACK WindowProcessMessage(HWND, UINT, WPARAM, LPARAM);
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR pCmdLine, int nCmdShow) {
     WNDCLASS window_class = { 0 };
-    const wchar_t window_class_name[] = L"cool";
+    const wchar_t window_class_name[] = L"cfgl window";
     window_class.lpszClassName = window_class_name;
     window_class.lpfnWndProc = WindowProcessMessage;
     window_class.hInstance = hInstance;
