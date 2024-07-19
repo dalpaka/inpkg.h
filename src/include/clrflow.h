@@ -2,8 +2,9 @@
 #define CLRFLOW_H
 #include "strings.h"
 #include "string.h"
-#include "bool.h"
+#include "stdbool.h"
 #include "stdint.h"
+#include "stdio.h"
 
 #define RED     "\x1b[31m"
 #define GREEN   "\x1b[32m"
@@ -14,19 +15,16 @@
 #define COLOR_RESET   "\x1b[0m"
 
 typedef struct __attribute__((packed)){
-    char[] red;
-    char[] green; 
-    char[] yellow; 
-    char[] blue; 
-    char[] magenta; 
-    char[] cyan; 
-    char[] reset; 
-} color;
+    char green[sizeof(GREEN)];
+    char red[sizeof(RED)];
+    char blue[sizeof(BLUE)];
+} palette;
 
-double print(char[] content, color color){
-    double fart = *content;
+palette colors;
 
-    return 0;
+
+void red(char content[]) {
+    printf(RED     "%d"     COLOR_RESET "\n", content);
 }
 
 #endif
