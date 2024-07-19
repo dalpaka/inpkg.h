@@ -1,11 +1,20 @@
 # Clrflow.h /kŭl′ərflō dōt āch/
 
+```mermaid
+CLRFLOW.H
+```
+
+
 ## Information
 👋 The C/C++ version for [clrflow](https://github.com/rver38/clrflow)
 
 🤝 Also check out: [rver](https://github.com/rver38)
 
 🙏 Please read the [LICENSE](https://github.com/dalpaka/clrflow.h/blob/main/LICENSE.txt)
+
+🤔 Clrflow is a header-only library which means you wont need dll's or .lib files.
+
+❓ Go to the [documentation](https://dalpaka.github.io/clrflow.h)
 
 
 ## Installation
@@ -19,15 +28,9 @@ Simply run
 git clone https://github.com/dalpaka/clrflow.h
 ```
 
-And add the src/include/clrflow directory to your include path which is ```C:\MinGW\include``` for Windows and ```/usr/include``` for Linux. (I already have Windows and Linux VSCode C/C++ configs in the '.vscode' folder if you're using VSCode)
-
-Clrflow is a header-only library which means you wont need dll's or .lib files.
-
-## Important notice
+And add the src/include/clrflow directory to your include path. (I already have Windows and Linux VSCode C/C++ configs in the '.vscode' folder if you're using VSCode)
 
 Must have MinGW installed with gcc for Windows config
-
-(Linux is not that important because gcc should usually be preinstalled for the vast majority of distros)
 
 ## Featuring
 
