@@ -21,20 +21,8 @@
 ❓ Go to the [documentation](https://dalpaka.github.io/clrflow.h)
 
 
-## Installation and Quickstart (also check out the [docs](https://dalpaka.github.io/clrflow.h))
-Download the latest source code and place your code in '/public/src/main.c'.
-
-#### or 
-
-Simply run 
-
-```
-git clone https://github.com/dalpaka/clrflow.h
-```
-
-And add the src/include/clrflow directory to your include path. (I already have Windows and Linux VSCode C/C++ configs in the '.vscode' folder if you're using VSCode)
-
-Must have MinGW installed with gcc for Windows config.
+## Installation (also check out the [docs](https://dalpaka.github.io/clrflow.h))
+Download the latest source code and place your code in '/main.c'.
 
 ## Featuring
 
