@@ -24,15 +24,15 @@ palette colors;
 
 
 void red(char red_content[]) {
-    printf(RED     "%d"     COLOR_RESET "\n", red_content);
+    printf(RED     "%s"     COLOR_RESET "\n", red_content);
 }
 
 void green(char green_content[]) {
-    printf(GREEN   "%d"     COLOR_RESET "\n", green_content);
+    printf(GREEN   "%s"     COLOR_RESET "\n", green_content);
 }
 
 void blue(char blue_content[]) {
-    printf(GREEN   "%d"     COLOR_RESET "\n", blue_content);
+    printf(GREEN   "%s"     COLOR_RESET "\n", blue_content);
 }
 
 
