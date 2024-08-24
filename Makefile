@@ -1,2 +1,2 @@
 all:
-    gcc -o clrflow ./src/include7clrflow.c
+    gcc -o clrflow ./src/include/clrflow.c -i ./src/include
