@@ -5,7 +5,7 @@
 #include "stdbool.h"
 #include "stdint.h"
 #include "stdio.h"
-#include "malloc"
+#include "malloc.h"
 
 #define RED     "\x1b[31m"
 #define GREEN   "\x1b[32m"
