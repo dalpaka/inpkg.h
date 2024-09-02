@@ -12,15 +12,15 @@
 ```
 
 ## Information
-👋 The C/C++ version for [clrflow](https://github.com/rver38/clrflow)
+👋 The C/C++ packages wirh syscalls, graphics libraries, scientific computing and [clrflow](https://github.com/rver38/clrflow)
 
 🤝 Also check out: [rver](https://github.com/rver38)
 
 🙏 Please read the [LICENSE](https://github.com/dalpaka/clrflow.h/blob/main/LICENSE.txt)
 
-🤔 [Clrflow](https://github.com/rver38/clrflow).h is a header-only library coming in at about _~100kb_ or less which means you wont need dll's or .lib files.
+🤔 inpkg.h is a header-only library coming in at about _~100kb_ or less which means you wont need dll's or .lib files.
 
-❓ Go to the [documentation](https://dalpaka.github.io/clrflow.h)
+❓ Go to the [documentation](https://dalpaka.github.io/inpkg.h)
 
 
 ## Installation (also check out the [docs](https://dalpaka.github.io/clrflow.h))
